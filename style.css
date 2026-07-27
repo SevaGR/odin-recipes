@@ -12,6 +12,7 @@
     background-color: red;
     box-sizing: border-box;
     font-family: "Times New Roman", serif;
+    font-size: 15px;
 }
 
 .persimmon {
@@ -23,6 +24,7 @@
     background-color: aqua;
     box-sizing: border-box;
     font-family: "Times New Roman", serif;
+    font-size: 15px;
 }
 
 .mashed {
@@ -34,4 +36,25 @@
     background-color: cornsilk;
     box-sizing: border-box;
     font-family: "Times New Roman", serif;
+    font-size: 15px;
+}
+
+
+.desc {
+    border-bottom: 2px solid;
+}
+
+.ingredients {
+    border-bottom: 2px solid;
+}
+
+.steps {
+    border-bottom: 2px solid;
+}
+
+.home {
+    box-sizing: border-box;
+    padding: 20px;
+    border: 2px solid;
+    background-color: coral;
 }
